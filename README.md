@@ -1,21 +1,48 @@
 # 💫 About Me:
-## 👋 Hi, I'm Bhavya Kasibhotla<br><br>I'm a **Computer Science and Engineering undergraduate (7th Semester)** at **Mahatma Gandhi Institute of Technology (MGIT), Hyderabad**, with a strong interest in **Artificial Intelligence, Machine Learning, Agentic AI, and Full-Stack Development**.<br><br>I enjoy building intelligent, scalable, and real-world software solutions by combining AI with modern web technologies. My work focuses on developing end-to-end applications, experimenting with AI agents, and solving practical problems through automation and data-driven systems.<br><br><br>### 🌱 Currently Learning<br>- Large Language Models (LLMs)<br>- Generative AI<br>- Cloud Technologies<br>- System Design & Scalable Architectures<br><br>I am always eager to learn new technologies, contribute to impactful projects, and collaborate on innovative AI-driven solutions.
+## 👋 Hi, I'm Bhavya Kasibhotla
 
+I'm a **Computer Science and Engineering undergraduate** at **Mahatma Gandhi Institute of Technology (MGIT), Hyderabad**, with a strong interest in **Artificial Intelligence, Machine Learning, Agentic AI, and Full-Stack Development**.
+
+I enjoy building intelligent, scalable, and real-world software solutions by combining AI with modern web technologies. My work focuses on developing end-to-end applications, experimenting with AI agents, and solving practical problems through automation and data-driven systems.
+
+### 🌱 Currently Learning
+- Large Language Models (LLMs)
+- Generative AI
+- Cloud Technologies
+- System Design & Scalable Architectures
+
+I am always eager to learn new technologies, contribute to impactful projects, and collaborate on innovative AI-driven solutions.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-kasibhotla-3aa6762b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavyakasibhotla16@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavya-kasibhotla-3aa6762b8)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhavyakasibhotla16@gmail.com)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=bhavya-kasibhotla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=bhavya-kasibhotla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=bhavya-kasibhotla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=bhavya-kasibhotla&theme=dark&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhavya-kasibhotla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://komarev.com/ghpvc/?username=bhavya-kasibhotla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=bhavya-kasibhotla&icon=0&color=0)](https://visitcount.itsvg.in)
